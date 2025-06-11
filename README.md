@@ -96,8 +96,7 @@ python lstm_stock_predictor.py
 
 ## 📌 Author
 
-**Your Name**  
-Sandesh Khatiwada
+**Sandesh Khatiwada**  
 Project for educational purposes (LSTM-based stock prediction)
 
 ---
